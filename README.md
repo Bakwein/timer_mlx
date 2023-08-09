@@ -5,10 +5,12 @@ Pomodoro with C-Mlx library
 <br>
 <img src="./photos/ss1.png"/>
 <br>
+
 ### Pomodoro
 <br>
 <img src="./photos/pomodoro.png"/>
 <br>
+
 ### Break
 <br>
 <img src="./photos/ss2.png"/>
