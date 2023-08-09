@@ -2,10 +2,13 @@
 Pomodoro with C-Mlx library
 
 make and ./timer
-<img src="./photos/ss1.png" width="128"/>
+<br>
+<img src="./photos/ss1.png"/>
 
 Pomodoro
-<img src="./photos/pomodoro.png" width="128"/>
+<br>
+<img src="./photos/pomodoro.png"/>
 
 Break
-<img src="./photos/ss2.png" width="128"/>
+<br>
+<img src="./photos/ss2.png"/>
